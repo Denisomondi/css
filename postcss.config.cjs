@@ -18,5 +18,6 @@ module.exports = {
       outputStyle: process.env.CSS_MINIFY === '0' ? 'expanded' : 'compressed'
     }),
     autoprefixer,
+    autoprefixer,
   ]
 }
